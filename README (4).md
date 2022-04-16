@@ -1,4 +1,5 @@
 # Git Basics Assignment
+#Ari Salehpour
 # Team 2
 
 1. Create a new project folder and initialize the repository.
